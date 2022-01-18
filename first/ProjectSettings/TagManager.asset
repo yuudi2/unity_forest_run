@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - fly
+  - item
+  - checkpoint
+  - FallDetector
+  - onlyfly
+  - NextStage
+  - strong
+  - Goal
+  - MonsterHitBox
+  - PlayerHitBox
+  - Monster
+  - Projectile
+  - trackfly
+  - checkmonster
+  - notfinish
+  - key
+  - finish
+  - treasurebox
+  - notice
+  - Monsterupgrade
+  - ending
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - enemy
+  - Player
+  - playerdamaged
+  - MonsterHitBox
+  - PlayerHitBox
+  - Monster
+  - Projectile
+  - FallDetector
+  - Player_girl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entity
+    uniqueID: 862281215
+    locked: 0
+  - name: UI
+    uniqueID: 2641452473
+    locked: 0
